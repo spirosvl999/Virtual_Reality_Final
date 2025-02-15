@@ -9,7 +9,7 @@ This repository has been made for Virtual Reality Final Project, used instead of
 - 
 
 ## Assets Used
-- 
+- [Terrain Sample Asset Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808)
 - 
 
 ## Last Updated
