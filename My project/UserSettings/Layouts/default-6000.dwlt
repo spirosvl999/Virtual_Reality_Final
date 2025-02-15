@@ -301,7 +301,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 586.4
+    y: 531.2
     width: 1174.2
     height: 183.59998
   m_SerializedDataModeController:
@@ -345,7 +345,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 108.400024}
     m_SelectedIDs: 70f40000
     m_LastClickedID: 62576
-    m_ExpandedIDs: 000000004ca500005cf400008208010000ca9a3b
+    m_ExpandedIDs: 00000000c6c10000c8c10000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -374,7 +374,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000c6c10000c8c10000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -453,8 +453,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1175.2001
-    y: 79.200005
+    x: 1176.2
+    y: 24
     width: 359.80005
     height: 690.8
   m_SerializedDataModeController:
@@ -503,7 +503,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79.200005
+    y: 24
     width: 288.6
     height: 481.2
   m_SerializedDataModeController:
@@ -520,8 +520,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: b6e9ffff
-      m_LastClickedID: -5706
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 28f6fdff225cfeff76ddffff14f3ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -568,8 +568,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 289.6
-    y: 79.200005
+    x: 290.6
+    y: 24
     width: 883.6
     height: 481.2
   m_SerializedDataModeController:
@@ -1190,7 +1190,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.17269593, y: 0.76787615, z: -0.2319987, w: -0.5715973}
     speed: 2
-    m_Value: {x: -0.17200951, y: 0.76815224, z: -0.23107657, w: -0.5718028}
+    m_Value: {x: -0.17269555, y: 0.7678744, z: -0.23199818, w: -0.57159597}
   m_Size:
     m_Target: 526.42615
     speed: 2
