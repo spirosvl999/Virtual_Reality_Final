@@ -4,7 +4,6 @@ This repository has been made for Virtual Reality Final Project, used instead of
 ## Technologies Used
 - Unity Hub 3.11.0
 - C#
-- 
 
 ## Assets Used
 - [Terrain Sample Asset Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808)
