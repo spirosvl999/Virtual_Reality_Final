@@ -2,7 +2,8 @@
 This repository has been made for Virtual Reality Final Project, used instead of exams.
 
 ## Programming Languages & Tools:
-- Unity Hub 3.11.0
+- Unity 6000
+- Unity Particles System
 - C#
 
 ## Assets Used
