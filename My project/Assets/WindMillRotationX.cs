@@ -1,11 +1,24 @@
 using UnityEngine;
 
-public class RotateOnX : MonoBehaviour
+public class RotateOnXOnly : MonoBehaviour
 {
-    public float rotationSpeed = 100f; // Adjust rotation speed as needed
+    public float rotationSpeed = 100f;
+    private float initialY;
+    private float initialZ;
+    private float currentX;
+
+    void Start()
+    {
+        Vector3 initialRotation = transform.localEulerAngles;
+        initialY = initialRotation.y;
+        initialZ = initialRotation.z;
+        currentX = initialRotation.x;
+    }
 
     void Update()
     {
-        transform.Rotate(rotationSpeed * Time.deltaTime, 0, 0, Space.Self);
+        currentX += rotationSpeed * Time.deltaTime;
+
+        transform.localEulerAngles = new Vector3(currentX, initialY, initialZ);
     }
 }
