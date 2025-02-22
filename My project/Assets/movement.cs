@@ -5,6 +5,8 @@ using UnityEngine;
 [RequireComponent(typeof(CharacterController))]
 public class PlayerMovement : MonoBehaviour
 {
+    public ParticleSystem dust;
+
     public Camera playerCamera;
     public float walkSpeed = 6f;
     public float runSpeed = 12f;
@@ -49,6 +51,7 @@ public class PlayerMovement : MonoBehaviour
         #region Handles Jumping
         if (Input.GetButton("Jump") && canMove && characterController.isGrounded)
         {
+            CreateDust();
             moveDirection.y = jumpPower;
         }
         else
@@ -75,5 +78,10 @@ public class PlayerMovement : MonoBehaviour
         }
  
         #endregion
+    }
+
+    void CreateDust()
+    {
+        dust.Play();
     }
 }
