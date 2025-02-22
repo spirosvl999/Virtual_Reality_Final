@@ -1,7 +1,7 @@
 # Virtual Reality Final Project
 This repository has been made for Virtual Reality Final Project, used instead of exams.
 
-## Technologies Used
+## Programming Languages & Tools:
 - Unity Hub 3.11.0
 - C#
 
