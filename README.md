@@ -15,8 +15,7 @@ This repository has been made for Virtual Reality Final Project, used instead of
 - [Church Model](https://assetstore.unity.com/packages/3d/environments/historic/church-model-110307)
 - [Low Poly Boat Yard](https://assetstore.unity.com/packages/3d/props/exterior/low-poly-boat-yard-128856)
 - [Simple Water Shader](https://assetstore.unity.com/packages/2d/textures-materials/water/simple-water-shader-urp-191449)
-- [Colonial City LittlePack](https://assetstore.unity.com/packages/p/colonial-city-littlepack-163089)
 - [lowpoly medieval building](https://assetstore.unity.com/packages/3d/environments/historic/lowpoly-medieval-buildings-58289)
 
 ## Last Updated
-This README was last updated on [2/17/2025].
+This README was last updated on [2/22/2025].
