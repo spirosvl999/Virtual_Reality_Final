@@ -19,4 +19,4 @@ This repository has been made for Virtual Reality Final Project, used instead of
 - [lowpoly medieval building](https://assetstore.unity.com/packages/3d/environments/historic/lowpoly-medieval-buildings-58289)
 
 ## Last Updated
-This README was last updated on [2/22/2025].
+This README was last updated on [2/23/2025].
