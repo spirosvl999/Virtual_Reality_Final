@@ -1,5 +1,5 @@
 # Virtual Reality Final Project
-This repository has been made for Virtual Reality Final Project, used instead of exams.
+This repository has been made for Virtual Reality Final Project, used instead of exams. We have to create a 3D world looking real, and make sure the user has the basic use of a video game.
 
 ## Programming Languages & Tools:
 - Unity 6000
